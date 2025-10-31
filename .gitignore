@@ -1,0 +1,49 @@
+﻿# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Build outputs
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
+*.local
+*.log
+
+# Adicione estas linhas ao arquivo .gitignore existente:
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Database
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências e builds
+node_modules/
+package-lock.json
