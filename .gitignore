@@ -46,4 +46,3 @@ coverage/
 
 # Dependências e builds
 node_modules/
-package-lock.json
